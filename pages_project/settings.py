@@ -25,7 +25,8 @@ SECRET_KEY = 'q!_$h_e3=#msis)nk+h^vkd#=54l+l$3stej2-(sb6sdw-c7c7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+#pages_project/settings.py
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
